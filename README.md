@@ -1,5 +1,8 @@
-### Ola, meu nome é Filipe Spirlandeli Junqueira
-### Bem vindo ao meu perfil GitHub!
+## Bem vindo ao meu perfil GitHub!
+### Ola, meu nome é Filipe Spirlandeli Junqueira. Estou graduando no curso de Ciência da Computação na Uni-FACEF.
+
+
+
 
 <div align="center" margin=50em>
   <a href="https://github.com/LucasVizoto">
