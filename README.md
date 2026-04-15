@@ -59,17 +59,12 @@ Sou graduando do 7º semestre de Ciência da Computação na Uni-FACEF e atuo co
 
 -----
 
-### Projetos Principais
+### Projetos em Destaque
+<a href="https://github.com/FilipeSJ1002" target="_blank">Trader.AI</a> Sistema de Trading Algorítmico (TCC)
 
-**[Trader.AI]([https://github.com/FilipeSJ1002](https://github.com/FilipeSJ1002/Trader.AI))** *Sistema de Trading Algorítmico (TCC)*
+Arquitetura: Integração de alta performance com a API da Binance, processando dados de mercado em tempo real. Implementação de módulos de inteligência artificial focados em análise preditiva para execução autônoma e assíncrona de ordens de compra e venda.
 
-  * **Arquitetura:** Integração de alta performance com a API da Binance, processando dados de mercado em tempo real. Implementação de módulos de inteligência artificial focados em análise preditiva para execução autônoma e assíncrona de ordens de compra e venda.
-  * **Foco Técnico:** Concorrência, processamento de streams de dados, latência mínima e resiliência a falhas de rede.
-
-**[SDJ-Cloud]** *Infraestrutura On-Premise (HomeLab)*
-
-  * **Arquitetura:** Provisionamento e administração de servidor físico utilizando OpenMediaVault e CasaOS. O ambiente é arquitetado para suportar virtualização, proxy reverso e gerenciamento de rede segmentada.
-  * **Foco Técnico:** Containers (Docker), administração de sistemas Linux, CI/CD local e simulação de ambientes de produção para deploy isolado de aplicações.
+Foco Técnico: Concorrência, processamento de streams de dados, latência mínima e resiliência a falhas de rede.
 
 -----
 
@@ -84,5 +79,3 @@ Sou graduando do 7º semestre de Ciência da Computação na Uni-FACEF e atuo co
   </a>
 </p>
 
-```
-```
